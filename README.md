@@ -61,9 +61,6 @@ Once the server is running, visiting `http://localhost:3000` should display:
 - If `npm install` fails, ensure Node.js is correctly installed.
 - If the server doesn't start, ensure port 3000 is free or change the port in `server.js`.
 
-## ✅ Submission
-- The code has been pushed to the GitHub repository: [GitHub Repo](https://github.com/PranavGoyal69/sit323-2025-prac2p)
-- Optional screenshots of the code and the final web page can be included in the submission portal.
 
 ## 📚 References
 - [Node.js Official Site](https://nodejs.org)
